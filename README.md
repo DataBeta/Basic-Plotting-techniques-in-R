@@ -1,8 +1,9 @@
+
 ## An exercise to make myself familiar with various common R plotting techniques.
 
 ======
 
-*This is **not** my individual work*
+This is **not** my individual work
 
 ======
 
@@ -16,4 +17,23 @@
 ======
 
 Have a look at the repo, star it if you like, and keep loving R :sparkles:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

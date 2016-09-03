@@ -3,7 +3,7 @@
 
 ======
 
-*This is **not** my individual work* 
+This is **not** my individual work
 
 ======
 
